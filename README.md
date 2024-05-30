@@ -11,6 +11,9 @@ The project is structured into several analytical tasks:
 5. Product Preferences: Identifying which products are most popular among different customer segments.
 6. Seasonal Trends: Analyzing how sales vary across different times of the year.
 
+**Skills**:
+Python - Pandas, Numpy, Matplotlib, Writing user-defined functions, Descriptive Statistics.
+
 **Observations**:
 
 1. Customer Distribution:
